@@ -1,19 +1,18 @@
-# 🏠 Home Service Provider System
+ Home Service Provider System
 
 A web-based platform that connects homeowners with professional service providers. Users can browse, book, and pay for services like plumbing, cleaning, and electrical repairs through a secure and user-friendly interface.
 
----
 
-## 🚀 Features
 
-- 🔍 **Service Search & Filter**: Easily find providers by category, location, or rating.
-- 📅 **Booking System**: Real-time booking and scheduling.
-- 💳 **Secure Payments**: Integrated M-Pesa, Stripe, and PayPal.
-- 🧑‍🔧 **Provider Dashboard**: Manage listings, bookings, and earnings.
-- 🧑‍💼 **Admin Panel**: User, service, and payment management.
-- ⭐ **Ratings & Reviews**: Build trust with transparent feedback.
+ Features
 
----
+ **Service Search & Filter**: Easily find providers by category, location, or rating.
+**Booking System**: Real-time booking and scheduling.
+ **Secure Payments**: Integrated M-Pesa, Stripe, and PayPal.
+ **Provider Dashboard**: Manage listings, bookings, and earnings.
+ **Admin Panel**: User, service, and payment management.
+ **Ratings & Reviews**: Build trust with transparent feedback.
+
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +33,7 @@ A web-based platform that connects homeowners with professional service provider
 - Stripe
 - PayPal
 
----
+
 
 ## 📁 Project Structure
 
